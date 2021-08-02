@@ -35,7 +35,7 @@ docker-compose up --build
 ```
 
 
-Browse to the app at http://localhost:8082/swagger-ui.html#/ or use postman
+Browse to the app at http://localhost:8082/books/
  
 ![all-books](./assets/README-1627870439009.png)
 
